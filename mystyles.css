@@ -1,0 +1,18 @@
+body {
+    font-family: "Ubuntu", sans-serif;
+    background-color: peachpuff;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    size: 0.4rem;
+}
+
+.navbar{
+    background-color: rgb(248, 157, 78);
+}
+
+figcaption {
+    font-size: 0.7rem;
+    text-align:center;
+}
